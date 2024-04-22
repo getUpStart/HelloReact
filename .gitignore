@@ -35,3 +35,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+# Parcel related files
+.parcel-cache
